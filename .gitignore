@@ -60,3 +60,4 @@ data/darknet53.conv.74
 data/obj.data
 data/obj.names
 data/train.txt
+data/data_backup1
