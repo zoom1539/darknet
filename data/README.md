@@ -8,4 +8,5 @@ TRAIN:
 
 TEST:
 1. modify data/yolov3.cfg to test mode
-2. test: ./darknet detector test data/obj.data data/yolov3.cfg data/backup/yolov3_final.weights
+2. test: ./darknet detector test data/obj.data data/yolov3.cfg data/backup/yolov3_final.weights 
+3. Enter Image Path
