@@ -56,8 +56,6 @@ include/darknet/
 uselib
 uselib_track
 darknet
-data/darknet53.conv.74
-data/obj.data
-data/obj.names
-data/train.txt
-data/data_backup1
+data
+bad.list
+predictions.jpg
